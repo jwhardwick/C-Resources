@@ -7,3 +7,4 @@
 <li><a href="https://github.com/angrave/SystemProgramming/wiki">System Programming Wiki</a>
 <li><a href="https://people.cs.clemson.edu/~dhouse/courses/405/papers/optimize.pdf">Tips for optimizing C</a>
 <li><a href="https://software.intel.com/sites/landingpage/IntrinsicsGuide/">Intel Intrinsics Guide</a>
+<li><a href="https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization">Writing Efficient C and C Code Optimization</a>
