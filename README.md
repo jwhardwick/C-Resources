@@ -9,3 +9,4 @@
 <li><a href="https://software.intel.com/sites/landingpage/IntrinsicsGuide/">Intel Intrinsics Guide</a>
 <li><a href="https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization">Writing Efficient C and C Code Optimization</a>
 <li><a href="http://www.brendangregg.com/dtrace.html">DTrace profiling tools</a>
+<li><a href="https://en.wikibooks.org/wiki/C_Programming">C Programming Wiki</a>
