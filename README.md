@@ -11,3 +11,4 @@
 <li><a href="http://www.brendangregg.com/dtrace.html">DTrace profiling tools</a>
 <li><a href="https://en.wikibooks.org/wiki/C_Programming">C Programming Wiki</a>
 <li><a href="http://www.eventhelix.com/realtimemantra/basics/optimizingcandcppcode.htm">Optimizing C and C++ Code</a>
+<li><a href="https://github.com/iiitv/algos">Algorithms in C and other languages</a>
